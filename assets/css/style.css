@@ -388,6 +388,12 @@ body {
   z-index: 4;
 }
 
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .header-top.active {
   position: fixed;
   top: -80px;
